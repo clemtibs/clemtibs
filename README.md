@@ -311,7 +311,8 @@ Here are some ideas to get you started:
 </table>
 </div>
 
-
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=brianclements" alt="Brian Clements-Tiberio Github Trophies" /></a> </p>
 
 
 #### 🐧 Linux Enthusiast
@@ -320,3 +321,8 @@ I love working with Linux.
 
   ![Linux](https://img.shields.io/badge/-Linux-000000?style=flat&logo=linux&logoColor=FCC624)
   ![Ubuntu](https://img.shields.io/badge/-Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white)
+  ![HTML Badge](https://img.shields.io/badge/-HTML-3B4252?style=flat&logo=html5&logoColor=D08770)
+  ![CSS Badge](https://img.shields.io/badge/-CSS-3B4252?style=flat&logo=css3&logoColor=81A1C1)
+  ![JavaScript Badge](https://img.shields.io/badge/-JavaScript-3B4252?style=flat&logo=javascript&logoColor=EBCB8B)
+
+![Profile views](https://komarev.com/ghpvc/?username=brianclements&label=Profile%20views&color=blue&style=flat)
