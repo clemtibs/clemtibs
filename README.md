@@ -2,43 +2,52 @@
   Custom SVG logos courtesy of:
   https://base64.guru/converter/encode/image/svg
 -->
-<h1 align="center">Hello!</h1>
+<h1 align="center">Hello! I'm Brian</h1>
+
+I'm a self-taught software engineer based out of Los Angeles. While my
+professional training is in music performance and education, I've been a
+passionate and grateful participant in the open source community for over 15
+years.
+
+I have experience with a variety of full-stack, linux-based technologies and
+currently working through a variety of
+[certifications](https://www.credly.com/users/brian-clements-tiberio) for
+**Front-end**, **Back-end**, and **Full-stack** development.
 
 <table>
-<thead>
-  <tr>
-    <th colspan="2">Github Stats</th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td>
-      <p align="center">
-        <img src="https://github-readme-stats.vercel.app/api?username=brianclements&hide_border=true">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=brianclements&hide_border=true" alt="Brian's Streak" height="165">
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <p align="center">
-        <a href="https://github.com/ryo-ma/github-profile-trophy">
-          <img src="https://github-profile-trophy.vercel.app/?username=brianclements&title=-Reviews&margin-w=15&margin-h=15" alt="Brian Clements-Tiberio Github Trophies"/>
-        </a>
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <p align="center">
-        <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=brianclements" alt="Repos Per Language">
-        <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=brianclements" alt="Most Commit Language">
-      </p>
-    </td>
-  </tr>
-</tbody>
+  <thead>
+    <tr>
+      <th colspan="2">Github Stats</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>
+        <p align="center">
+          <img src="https://github-readme-stats.vercel.app/api?username=brianclements&hide_border=true">
+          <img src="https://github-readme-streak-stats.herokuapp.com/?user=brianclements&hide_border=true" alt="Brian's Streak" height="165">
+        </p>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <p align="center">
+          <a href="https://github.com/ryo-ma/github-profile-trophy">
+            <img src="https://github-profile-trophy.vercel.app/?username=brianclements&title=-Reviews&margin-w=15&margin-h=15" alt="Brian Clements-Tiberio Github Trophies"/>
+          </a>
+        </p>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <p align="center">
+          <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=brianclements" alt="Repos Per Language">
+          <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=brianclements" alt="Most Commit Language">
+        </p>
+      </td>
+    </tr>
+  </tbody>
 </table>
-
 
 <table>
   <thead>
@@ -77,6 +86,8 @@
     <img src="https://img.shields.io/badge/lilypond-A3DE92?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiIHN0YW5kYWxvbmU9Im5vIj8%2BCjxzdmcKICAgdmVyc2lvbj0iMS4yIgogICB3aWR0aD0iODAuODc3NTYzbW0iCiAgIGhlaWdodD0iMjMwLjY0NjE1bW0iCiAgIHZpZXdCb3g9IjAgMCA0Ni4wMjM4MDEgMTMxLjI1MDM5IgogICBpZD0ic3ZnOCIKICAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogICB4bWxuczpzdmc9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KICA8ZGVmcwogICAgIGlkPSJkZWZzMTIiIC8%2BCiAgPCEtLSBQYWdlOiAxLzEgLS0%2BCiAgPHRleHQKICAgICBmb250LWZhbWlseT0ic2VyaWYiCiAgICAgZm9udC1zaXplPSIyLjIwMDFweCIKICAgICB0ZXh0LWFuY2hvcj0ic3RhcnQiCiAgICAgZmlsbD0iY3VycmVudENvbG9yIgogICAgIGlkPSJ0ZXh0NCIKICAgICB4PSItMzEuMTcwNyIKICAgICB5PSItMS40MDQyIj48dHNwYW4KICAgICAgIGlkPSJ0c3BhbjIiIC8%2BPC90ZXh0PgogIDxwYXRoCiAgICAgZD0ibSAyNi43MDk2LDY3LjEzMyBjIDAuMzU5LDAgMC43MTgsLTAuMDcxOCAxLjA3NywtMC4wNzE4IDExLjA1NzIsMCAxOC4yMzcyLDkuMTE4NiAxOC4yMzcyLDE4LjU5NjIgMCw1LjQ1NjggLTIuMzY5NCwxMC45ODU0IC03LjY4MjYsMTQuOTM0NCAtMS41Nzk2LDEuMjIwNiAtMy4zNzQ2LDIuMDgyMiAtNS4yNDE0LDIuNjU2NiAwLjIxNTQsMi41ODQ4IDAuMzU5LDUuMTY5NiAwLjM1OSw3Ljc1NDQgMCwxLjM2NDIgMCwyLjY1NjYgLTAuMDcxOCw0LjAyMDggLTAuNTAyNiw4LjYxNiAtNi4zMTg0LDE2LjIyNjggLTE0Ljc5MDgsMTYuMjI2OCAtNy43NTQ0LDAgLTE0LjAwMSwtNi4yNDY2IC0xNC4wMDEsLTE0LjAwMSAwLC00LjE2NDQgMy44MDU0LC03LjQ2NzIgOC4wNDE2LC03LjQ2NzIgMy44NzcyLDAgNi44MjEsMy40NDY0IDYuODIxLDcuNDY3MiAwLDMuNzMzNiAtMy4wODc0LDYuODIxIC02LjgyMSw2LjgyMSAtMC44NjE2LDAgLTEuNzIzMiwtMC4yODcyIC0yLjUxMywtMC42NDYyIDEuODY2OCwyLjk0MzggNS4wMjYsNS4wMjYgOC42ODc4LDUuMDI2IDYuODkyOCwwIDExLjI3MjYsLTYuNjc3NCAxMS43MDM0LC0xMy44NTc0IDAuMDcxOCwtMS4yOTI0IDAuMTQzNiwtMi41MTMgMC4xNDM2LC0zLjgwNTQgMCwtMi4yOTc2IC0wLjE0MzYsLTQuNTk1MiAtMC4zNTksLTYuODkyOCAtMi4wODIyLDAuMzU5IC00LjE2NDQsMC41NzQ0IC02LjM5MDIsMC41NzQ0IEMgMTAuNDExLDEwNC40NjkgMCw5Mi4xOTEyIDAsNzcuNzU5NCAwLDY0Ljk3OSA5LjU0OTQsNTUuNzg4NiAxOC4wMjE4LDQ2LjE2NzQgMTYuNzI5NCw0MS42NDQgMTUuNTA4OCwzNy4xMjA2IDE1LjAwNjIsMzIuNDUzNiAxNC41NzU0LDI4Ljc5MTggMTQuNTAzNiwyNS4xMyAxNC41MDM2LDIxLjM5NjQgYyAwLC04LjMyODggMy45NDksLTE2LjIyNjggMTAuNzcsLTIxLjE4MSBDIDI1LjQxNzIsMC4wNzE4IDI1LjYzMjYsMCAyNS44NDgsMCBjIDAuMjE1NCwwIDAuNDMwOCwwLjA3MTggMC41NzQ0LDAuMjE1NCA1LjAyNiw2LjAzMTIgOS40Nzc2LDE3LjY2MjggOS40Nzc2LDI1Ljc3NjIgMCwxMC4zMzkyIC02LjI0NjYsMTguMzgwOCAtMTMuMTM5NCwyNi4yMDcgMS40MzYsNC45NTQyIDIuODAwMiw5LjkwODQgMy45NDksMTQuOTM0NCB6IG0gNi4xMDMsMzMuMzg3IGMgNC45NTQyLC0xLjcyMzIgOC40MDA2LC02Ljg5MjggOC40MDA2LC0xMS45MTg4IDAsLTYuNjA1NiAtNC45NTQyLC0xMy4yMTEyIC0xMi44NTIyLC0xMy44NTc0IDEuNzk1LDguNDAwNiAzLjQ0NjQsMTYuODczIDQuNDUxNiwyNS43NzYyIHogTSA0Ljk1NDIsODMuNTc1MiBjIDAsOS43NjQ4IDkuNDA1OCwxOC4wMjE4IDE5LjE3MDYsMTguMDIxOCAyLjAxMDQsMCAzLjk0OSwtMC4xNDM2IDUuODg3NiwtMC40MzA4IC0xLjA3NywtOS4xOTA0IC0yLjcyODQsLTE3LjczNDYgLTQuNTk1MiwtMjYuMzUwNiAtNS42NzIyLDAuNjQ2MiAtOC45NzUsNC40NTE2IC04Ljk3NSw4LjY4NzggMCwzLjE1OTIgMS44NjY4LDYuNjA1NiA1Ljg4NzYsOC45MDMyIDAuMjg3MiwwLjI4NzIgMC41MDI2LDAuNjQ2MiAwLjUwMjYsMS4wMDUyIDAsMC43ODk4IC0wLjY0NjIsMS41MDc4IC0xLjQzNiwxLjUwNzggLTAuMjE1NCwwIC0wLjQzMDgsLTAuMDcxOCAtMC42NDYyLC0wLjE0MzYgLTUuNzQ0LC0zLjA4NzQgLTguMzI4OCwtOC4xODUyIC04LjMyODgsLTEzLjIxMTIgMCwtNi4zMTg0IDQuMDkyNiwtMTIuNDIxNCAxMS4zNDQ0LC0xNC4wNzI4IEMgMjIuNzYwNiw2My4xODQgMjEuNjExOCw1OC45NDc4IDIwLjQ2Myw1NC43MTE2IDEyLjcwODYsNjMuMzk5NCA0Ljk1NDIsNzIuMDg3MiA0Ljk1NDIsODMuNTc1MiBaIE0gMjkuMzY2MiwxMC40MTEgYyAtNy4xMDgyLDMuNTkgLTExLjU1OTgsMTAuODQxOCAtMTEuNTU5OCwxOC44MTE2IDAsNS40NTY4IDEuMDc3LDkuODM2NiAyLjM2OTQsMTQuMzYgNS44ODc2LC02Ljk2NDYgMTAuNjk4MiwtMTQuMjE2NCAxMC42OTgyLC0yMy4zMzUgMCwtNC4xNjQ0IC0wLjI4NzIsLTYuMDMxMiAtMS41MDc4LC05LjgzNjYgeiIKICAgICBmaWxsPSJjdXJyZW50Q29sb3IiCiAgICAgaWQ9InBhdGg2IgogICAgIHN0eWxlPSJzdHJva2Utd2lkdGg6MC4wNzE4IiAvPgo8L3N2Zz4K&logoColor=white&logoSize=auto">
   </p>
 
+<br>
+
 <h2 align="center">My Development Stack</h2>
   <p align="center">
     <img src="https://img.shields.io/badge/ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white">
@@ -85,6 +96,8 @@
     <img src="https://img.shields.io/badge/zsh-F15A24?style=for-the-badge&logo=zsh&logoColor=white&logoSize=auto">
     <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white&logoSize=auto">
   </p>
+
+<br>
 
 <h2 align="center">Web Development</h2>
 <div align="center">
@@ -123,12 +136,45 @@
           <img src="https://img.shields.io/badge/postgresql-4169E1?style=for-the-badge&logo=postgresql&logoColor=white">
         </td>
       </tr>
+      <tr>
+        <td colspan="3">
+          <details>
+            <summary><strong>Certificates</strong> (click to expand)</summary>
+            <br>
+            <p align="center">
+              <a href="https://www.credly.com/badges/ef69b23d-5899-4886-b743-dac77afd2cc7/public_url">
+                <img 
+                  style="height: 150px;"
+                  src="https://images.credly.com/size/340x340/images/e91ed0b0-842b-417f-8d2f-b07535febdda/image.png"
+                  alt="Meta Front-End Developer Certificate"
+                  >
+              </a>
+            </p>
+            <br>
+          </details>
+        </td>
+      </tr>
+      <tr> 
+        <td colspan="3">
+          <details>
+            <summary><strong>Projects</strong> (click to expand)</summary>
+            <br>
+            <p align="center">
+              <p><a href="https://github.com/brianclements/front-end-capstone">React Capstone Project</a></p>
+              <p><a href="https://oaksmusic.studio">Music Studio Homepage (Hugo)</a></p>
+              <p><a href="https://github.com/brianclements/brianclements.github.io/tree/src">Personal Homepage</a></p>
+            </p>
+            <br>
+          </details>
+        </td>
+      </tr>
     </tbody>
   </table>
 </div>
 
-<h2 align="center">Linux Tooling</h2>
+<br>
 
+<h2 align="center">Linux Tooling</h2>
 <div align="center">
   <table>
     <thead>
@@ -156,13 +202,42 @@
           <img src="https://img.shields.io/badge/make-A42E2B?style=for-the-badge&logo=gnu&logoColor=white&logoSize=auto">
         </td>
       </tr>
+      <tr>
+        <td>
+          <details>
+            <summary><strong>Projects</strong> (click to expand)</summary>
+            <br>
+            <p align="center">
+              <p><a href="https://github.com/brianclements/iserb">Interval and Snapshot Enabled Rsync Backup (IserB)</a></p>
+              <p><a href="https://github.com/brianclements/pkictl">Pkictl</a></p>
+            </p>
+            <br>
+          </details>
+        </td>
+        <td>
+          <details>
+            <summary><strong>Certificates</strong> (click to expand)</summary>
+            <br>
+            <p align="center">
+              <a href="https://www.credly.com/badges/d515c925-adc1-4dea-a78b-f58d334a5ee1/public_url">
+                <img 
+                  style="height: 150px;"
+                  src="https://images.credly.com/size/340x340/images/56774818-e5ff-4dd0-89db-a2a571b0c459/image.png"
+                  alt="IBM Linux Commands & Shell Scripting Essentials Certificate"
+                  >
+              </a>
+            </p>
+            <br>
+          </details>
+        </td>
+      </tr>
     </tbody>
   </table>
 </div>
 
+<br>
 
 <h2 align="center">DevOps & Cloud Computing</h2>
-
 <div align="center">
   <table>
     <thead>
@@ -200,8 +275,9 @@
   </table>
 </div>
 
-<h2 align="center">AI/ML & Data Science</h2>
+<br>
 
+<h2 align="center">AI/ML & Data Science</h2>
 <div align="center">
   <table>
     <thead>
@@ -227,8 +303,9 @@
   </table>
 </div>
 
-<h2 align="center">Graphics & Design</h2>
+<br>
 
+<h2 align="center">Graphics & Design</h2>
 <div align="center">
   <table>
     <thead>
