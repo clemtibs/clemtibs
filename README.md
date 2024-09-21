@@ -4,15 +4,16 @@
 -->
 <h1 align="center">Hello! I'm Brian</h1>
 
-I'm a self-taught software engineer based out of Los Angeles. While my
-professional training is in music performance and education, I've been a
-passionate and grateful participant in the open source community for over 15
-years.
+I'm a software engineer based out of Los Angeles. While my professional and
+graduate training is in music performance and education, I've honed my
+programming skills as a passionate participant in the open source community for
+over 15 years.
 
 I have experience with a variety of full-stack, linux-based technologies and
 currently working through a variety of
 [certifications](https://www.credly.com/users/brian-clements-tiberio) for
-**Front-end**, **Back-end**, and **Full-stack** development.
+**Front-end**, **Back-end**, and **Full-stack** development with an interest in
+expanding to data science and AI.
 
 <table>
   <thead>
@@ -70,32 +71,45 @@ currently working through a variety of
 
 <h1 align="center">Tech Stack</h1>
 
-<h2 align="center">Operating Systems & Languages</h2>
-  <p align="center">
-    <img src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=white">
-    <img src="https://img.shields.io/badge/-000000?style=for-the-badge&logo=macos&logoColor=white&logoSize=auto">
-    <img src="https://img.shields.io/badge/-000000?style=for-the-badge&logo=ios&logoColor=white">
-    <img src="https://img.shields.io/badge/windows-00AFF0?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiIHN0YW5kYWxvbmU9Im5vIj8%2BCjxzdmcKICAgaGVpZ2h0PSI4OCIKICAgd2lkdGg9Ijg4IgogICB2ZXJzaW9uPSIxLjEiCiAgIGlkPSJzdmc0IgogICBzb2RpcG9kaTpkb2NuYW1lPSJXaW5kb3dzX2xvZ29fLV8yMDEyLnN2ZyIKICAgaW5rc2NhcGU6dmVyc2lvbj0iMS4xLjIgKDBhMDBjZjUzMzksIDIwMjItMDItMDQpIgogICB4bWxuczppbmtzY2FwZT0iaHR0cDovL3d3dy5pbmtzY2FwZS5vcmcvbmFtZXNwYWNlcy9pbmtzY2FwZSIKICAgeG1sbnM6c29kaXBvZGk9Imh0dHA6Ly9zb2RpcG9kaS5zb3VyY2Vmb3JnZS5uZXQvRFREL3NvZGlwb2RpLTAuZHRkIgogICB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciCiAgIHhtbG5zOnN2Zz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPgogIDxkZWZzCiAgICAgaWQ9ImRlZnM4IiAvPgogIDxzb2RpcG9kaTpuYW1lZHZpZXcKICAgICBpZD0ibmFtZWR2aWV3NiIKICAgICBwYWdlY29sb3I9IiNmZmZmZmYiCiAgICAgYm9yZGVyY29sb3I9IiM2NjY2NjYiCiAgICAgYm9yZGVyb3BhY2l0eT0iMS4wIgogICAgIGlua3NjYXBlOnBhZ2VzaGFkb3c9IjIiCiAgICAgaW5rc2NhcGU6cGFnZW9wYWNpdHk9IjAuMCIKICAgICBpbmtzY2FwZTpwYWdlY2hlY2tlcmJvYXJkPSIwIgogICAgIHNob3dncmlkPSJmYWxzZSIKICAgICBpbmtzY2FwZTp6b29tPSI4LjE3MDQ1NDUiCiAgICAgaW5rc2NhcGU6Y3g9IjQ0IgogICAgIGlua3NjYXBlOmN5PSI0NC4wNjExOTYiCiAgICAgaW5rc2NhcGU6d2luZG93LXdpZHRoPSIxOTIwIgogICAgIGlua3NjYXBlOndpbmRvdy1oZWlnaHQ9IjEwNDMiCiAgICAgaW5rc2NhcGU6d2luZG93LXg9IjQ0ODAiCiAgICAgaW5rc2NhcGU6d2luZG93LXk9IjAiCiAgICAgaW5rc2NhcGU6d2luZG93LW1heGltaXplZD0iMSIKICAgICBpbmtzY2FwZTpjdXJyZW50LWxheWVyPSJzdmc0IiAvPgogIDxwYXRoCiAgICAgZD0iTTAgMTIuNDAybDM1LjY4Ny00Ljg2LjAxNiAzNC40MjMtMzUuNjcuMjAzem0zNS42NyAzMy41MjlsLjAyOCAzNC40NTNMLjAyOCA3NS40OC4wMjYgNDUuN3ptNC4zMjYtMzkuMDI1TDg3LjMxNCAwdjQxLjUyN2wtNDcuMzE4LjM3NnptNDcuMzI5IDM5LjM0OWwtLjAxMSA0MS4zNC00Ny4zMTgtNi42NzgtLjA2Ni0zNC43Mzl6IgogICAgIGZpbGw9IiMwMGFkZWYiCiAgICAgaWQ9InBhdGgyIgogICAgIHN0eWxlPSJmaWxsOiNmZmZmZmY7ZmlsbC1vcGFjaXR5OjEiIC8%2BCjwvc3ZnPgo%3D&logoColor=white&logoSize=auto">
-    <img src="https://img.shields.io/badge/android-34A853?style=for-the-badge&logo=android&logoColor=white">
-  </p>
-  <p align="center">
-    <img src="https://img.shields.io/badge/bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white">
-    <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">
-    <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
-    <img src="https://img.shields.io/badge/java-F7F7F7?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI2NCIgaGVpZ2h0PSI2NCIgdmlld0JveD0iMCAwIDMyIDMyIj48cGF0aCBkPSJNMTEuNjIyIDI0Ljc0cy0xLjIzLjc0OC44NTUuOTYyYzIuNTEuMzIgMy44NDcuMjY3IDYuNjI1LS4yNjdhMTAuMDIgMTAuMDIgMCAwIDAgMS43NjMuODU1Yy02LjI1IDIuNjcyLTE0LjE2LS4xNi05LjI0NC0xLjU1em0tLjgtMy40NzNzLTEuMzM2IDEuMDE1Ljc0OCAxLjIzYzIuNzI1LjI2NyA0Ljg2Mi4zMiA4LjU1LS40MjdhMy4yNiAzLjI2IDAgMCAwIDEuMjgyLjgwMWMtNy41MzQgMi4yNDQtMTUuOTc2LjIxNC0xMC41OC0xLjYwM3ptMTQuNzQ3IDYuMDlzLjkwOC43NDgtMS4wMTUgMS4zMzZjLTMuNTggMS4wNy0xNS4wMTQgMS4zOS0xOC4yMiAwLTEuMTIyLS40OCAxLjAxNS0xLjE3NSAxLjctMS4yODIuNjk1LS4xNiAxLjA3LS4xNiAxLjA3LS4xNi0xLjIzLS44NTUtOC4xNzUgMS43NjMtMy41MjYgMi41MSAxMi43NyAyLjA4NCAyMy4yOTYtLjkwOCAxOS45ODMtMi40MDR6TTEyLjIgMTcuNjMzcy01LjgyNCAxLjM5LTIuMDg0IDEuODdjMS42MDMuMjE0IDQuNzU1LjE2IDcuNjk0LS4wNTMgMi40MDQtLjIxNCA0LjgxLS42NCA0LjgxLS42NHMtLjg1NS4zNzQtMS40NDMuNzQ4Yy01LjkzIDEuNTUtMTcuMzEyLjg1NS0xNC4wNTItLjc0OCAyLjc3OC0xLjMzNiA1LjA3Ni0xLjE3NSA1LjA3Ni0xLjE3NXptMTAuNDIgNS44MjRjNS45ODQtMy4xIDMuMjA2LTYuMDkgMS4yODItNS43MTctLjQ4LjEwNy0uNjk1LjIxNC0uNjk1LjIxNHMuMTYtLjMyLjUzNC0uNDI3YzMuNzk0LTEuMzM2IDYuNzg2IDQuMDA3LTEuMjMgNi4wOSAwIDAgLjA1My0uMDUzLjEwNy0uMTZ6bS05LjgzIDguNDQyYzUuNzcuMzc0IDE0LjU4Ny0uMjE0IDE0LjgtMi45NCAwIDAtLjQyNyAxLjA3LTQuNzU1IDEuODctNC45MTYuOTA4LTExLjAwNy44LTE0LjU4Ny4yMTQgMCAwIC43NDguNjQgNC41NDIuODU1eiIgZmlsbD0iIzRlNzg5NiIvPjxwYXRoIGQ9Ik0xOC45OTYuMDAxczMuMzEzIDMuMzY2LTMuMTUyIDguNDQyYy01LjE4MyA0LjExNC0xLjE3NSA2LjQ2NSAwIDkuMTM3LTMuMDQ2LTIuNzI1LTUuMjM2LTUuMTMtMy43NC03LjM3M0MxNC4yOTQgNi44OTMgMjAuMzMyIDUuMyAxOC45OTYuMDAxem0tMS43IDE1LjMzNWMxLjU1IDEuNzYzLS40MjcgMy4zNjYtLjQyNyAzLjM2NnMzLjk1NC0yLjAzIDIuMTM3LTQuNTQyYy0xLjY1Ni0yLjQwNC0yLjk0LTMuNTggNC4wMDctNy41ODcgMCAwLTEwLjk1MyAyLjcyNS01LjcxNyA4Ljc2M3oiIGZpbGw9IiNmNTgyMTkiLz48L3N2Zz4%3D&logoSize=auto">
-    <img src="https://img.shields.io/badge/lilypond-A3DE92?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiIHN0YW5kYWxvbmU9Im5vIj8%2BCjxzdmcKICAgdmVyc2lvbj0iMS4yIgogICB3aWR0aD0iODAuODc3NTYzbW0iCiAgIGhlaWdodD0iMjMwLjY0NjE1bW0iCiAgIHZpZXdCb3g9IjAgMCA0Ni4wMjM4MDEgMTMxLjI1MDM5IgogICBpZD0ic3ZnOCIKICAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogICB4bWxuczpzdmc9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KICA8ZGVmcwogICAgIGlkPSJkZWZzMTIiIC8%2BCiAgPCEtLSBQYWdlOiAxLzEgLS0%2BCiAgPHRleHQKICAgICBmb250LWZhbWlseT0ic2VyaWYiCiAgICAgZm9udC1zaXplPSIyLjIwMDFweCIKICAgICB0ZXh0LWFuY2hvcj0ic3RhcnQiCiAgICAgZmlsbD0iY3VycmVudENvbG9yIgogICAgIGlkPSJ0ZXh0NCIKICAgICB4PSItMzEuMTcwNyIKICAgICB5PSItMS40MDQyIj48dHNwYW4KICAgICAgIGlkPSJ0c3BhbjIiIC8%2BPC90ZXh0PgogIDxwYXRoCiAgICAgZD0ibSAyNi43MDk2LDY3LjEzMyBjIDAuMzU5LDAgMC43MTgsLTAuMDcxOCAxLjA3NywtMC4wNzE4IDExLjA1NzIsMCAxOC4yMzcyLDkuMTE4NiAxOC4yMzcyLDE4LjU5NjIgMCw1LjQ1NjggLTIuMzY5NCwxMC45ODU0IC03LjY4MjYsMTQuOTM0NCAtMS41Nzk2LDEuMjIwNiAtMy4zNzQ2LDIuMDgyMiAtNS4yNDE0LDIuNjU2NiAwLjIxNTQsMi41ODQ4IDAuMzU5LDUuMTY5NiAwLjM1OSw3Ljc1NDQgMCwxLjM2NDIgMCwyLjY1NjYgLTAuMDcxOCw0LjAyMDggLTAuNTAyNiw4LjYxNiAtNi4zMTg0LDE2LjIyNjggLTE0Ljc5MDgsMTYuMjI2OCAtNy43NTQ0LDAgLTE0LjAwMSwtNi4yNDY2IC0xNC4wMDEsLTE0LjAwMSAwLC00LjE2NDQgMy44MDU0LC03LjQ2NzIgOC4wNDE2LC03LjQ2NzIgMy44NzcyLDAgNi44MjEsMy40NDY0IDYuODIxLDcuNDY3MiAwLDMuNzMzNiAtMy4wODc0LDYuODIxIC02LjgyMSw2LjgyMSAtMC44NjE2LDAgLTEuNzIzMiwtMC4yODcyIC0yLjUxMywtMC42NDYyIDEuODY2OCwyLjk0MzggNS4wMjYsNS4wMjYgOC42ODc4LDUuMDI2IDYuODkyOCwwIDExLjI3MjYsLTYuNjc3NCAxMS43MDM0LC0xMy44NTc0IDAuMDcxOCwtMS4yOTI0IDAuMTQzNiwtMi41MTMgMC4xNDM2LC0zLjgwNTQgMCwtMi4yOTc2IC0wLjE0MzYsLTQuNTk1MiAtMC4zNTksLTYuODkyOCAtMi4wODIyLDAuMzU5IC00LjE2NDQsMC41NzQ0IC02LjM5MDIsMC41NzQ0IEMgMTAuNDExLDEwNC40NjkgMCw5Mi4xOTEyIDAsNzcuNzU5NCAwLDY0Ljk3OSA5LjU0OTQsNTUuNzg4NiAxOC4wMjE4LDQ2LjE2NzQgMTYuNzI5NCw0MS42NDQgMTUuNTA4OCwzNy4xMjA2IDE1LjAwNjIsMzIuNDUzNiAxNC41NzU0LDI4Ljc5MTggMTQuNTAzNiwyNS4xMyAxNC41MDM2LDIxLjM5NjQgYyAwLC04LjMyODggMy45NDksLTE2LjIyNjggMTAuNzcsLTIxLjE4MSBDIDI1LjQxNzIsMC4wNzE4IDI1LjYzMjYsMCAyNS44NDgsMCBjIDAuMjE1NCwwIDAuNDMwOCwwLjA3MTggMC41NzQ0LDAuMjE1NCA1LjAyNiw2LjAzMTIgOS40Nzc2LDE3LjY2MjggOS40Nzc2LDI1Ljc3NjIgMCwxMC4zMzkyIC02LjI0NjYsMTguMzgwOCAtMTMuMTM5NCwyNi4yMDcgMS40MzYsNC45NTQyIDIuODAwMiw5LjkwODQgMy45NDksMTQuOTM0NCB6IG0gNi4xMDMsMzMuMzg3IGMgNC45NTQyLC0xLjcyMzIgOC40MDA2LC02Ljg5MjggOC40MDA2LC0xMS45MTg4IDAsLTYuNjA1NiAtNC45NTQyLC0xMy4yMTEyIC0xMi44NTIyLC0xMy44NTc0IDEuNzk1LDguNDAwNiAzLjQ0NjQsMTYuODczIDQuNDUxNiwyNS43NzYyIHogTSA0Ljk1NDIsODMuNTc1MiBjIDAsOS43NjQ4IDkuNDA1OCwxOC4wMjE4IDE5LjE3MDYsMTguMDIxOCAyLjAxMDQsMCAzLjk0OSwtMC4xNDM2IDUuODg3NiwtMC40MzA4IC0xLjA3NywtOS4xOTA0IC0yLjcyODQsLTE3LjczNDYgLTQuNTk1MiwtMjYuMzUwNiAtNS42NzIyLDAuNjQ2MiAtOC45NzUsNC40NTE2IC04Ljk3NSw4LjY4NzggMCwzLjE1OTIgMS44NjY4LDYuNjA1NiA1Ljg4NzYsOC45MDMyIDAuMjg3MiwwLjI4NzIgMC41MDI2LDAuNjQ2MiAwLjUwMjYsMS4wMDUyIDAsMC43ODk4IC0wLjY0NjIsMS41MDc4IC0xLjQzNiwxLjUwNzggLTAuMjE1NCwwIC0wLjQzMDgsLTAuMDcxOCAtMC42NDYyLC0wLjE0MzYgLTUuNzQ0LC0zLjA4NzQgLTguMzI4OCwtOC4xODUyIC04LjMyODgsLTEzLjIxMTIgMCwtNi4zMTg0IDQuMDkyNiwtMTIuNDIxNCAxMS4zNDQ0LC0xNC4wNzI4IEMgMjIuNzYwNiw2My4xODQgMjEuNjExOCw1OC45NDc4IDIwLjQ2Myw1NC43MTE2IDEyLjcwODYsNjMuMzk5NCA0Ljk1NDIsNzIuMDg3MiA0Ljk1NDIsODMuNTc1MiBaIE0gMjkuMzY2MiwxMC40MTEgYyAtNy4xMDgyLDMuNTkgLTExLjU1OTgsMTAuODQxOCAtMTEuNTU5OCwxOC44MTE2IDAsNS40NTY4IDEuMDc3LDkuODM2NiAyLjM2OTQsMTQuMzYgNS44ODc2LC02Ljk2NDYgMTAuNjk4MiwtMTQuMjE2NCAxMC42OTgyLC0yMy4zMzUgMCwtNC4xNjQ0IC0wLjI4NzIsLTYuMDMxMiAtMS41MDc4LC05LjgzNjYgeiIKICAgICBmaWxsPSJjdXJyZW50Q29sb3IiCiAgICAgaWQ9InBhdGg2IgogICAgIHN0eWxlPSJzdHJva2Utd2lkdGg6MC4wNzE4IiAvPgo8L3N2Zz4K&logoColor=white&logoSize=auto">
-  </p>
-
-<br>
-
-<h2 align="center">My Development Stack</h2>
-  <p align="center">
-    <img src="https://img.shields.io/badge/ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white">
-    <img src="https://img.shields.io/badge/tmux-1BB91F?style=for-the-badge&logo=tmux&logoColor=white&logoSize=auto">
-    <img src="https://img.shields.io/badge/vim-019733?style=for-the-badge&logo=vim&logoColor=white&logoSize=auto">
-    <img src="https://img.shields.io/badge/zsh-F15A24?style=for-the-badge&logo=zsh&logoColor=white&logoSize=auto">
-    <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white&logoSize=auto">
-  </p>
+<div align="center">
+  <table>
+    <thead>
+      <tr>
+        <th align="center">Operating Systems</th>
+        <th align="center">Languages</th>
+        <th align="center">My Development Stack</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td align="center" style="border: none;">
+          <img src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=white">
+          <img src="https://img.shields.io/badge/-000000?style=for-the-badge&logo=macos&logoColor=white&logoSize=auto">
+          <img src="https://img.shields.io/badge/-000000?style=for-the-badge&logo=ios&logoColor=white">
+          <br>
+          <img src="https://img.shields.io/badge/windows-00AFF0?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiIHN0YW5kYWxvbmU9Im5vIj8%2BCjxzdmcKICAgaGVpZ2h0PSI4OCIKICAgd2lkdGg9Ijg4IgogICB2ZXJzaW9uPSIxLjEiCiAgIGlkPSJzdmc0IgogICBzb2RpcG9kaTpkb2NuYW1lPSJXaW5kb3dzX2xvZ29fLV8yMDEyLnN2ZyIKICAgaW5rc2NhcGU6dmVyc2lvbj0iMS4xLjIgKDBhMDBjZjUzMzksIDIwMjItMDItMDQpIgogICB4bWxuczppbmtzY2FwZT0iaHR0cDovL3d3dy5pbmtzY2FwZS5vcmcvbmFtZXNwYWNlcy9pbmtzY2FwZSIKICAgeG1sbnM6c29kaXBvZGk9Imh0dHA6Ly9zb2RpcG9kaS5zb3VyY2Vmb3JnZS5uZXQvRFREL3NvZGlwb2RpLTAuZHRkIgogICB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciCiAgIHhtbG5zOnN2Zz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPgogIDxkZWZzCiAgICAgaWQ9ImRlZnM4IiAvPgogIDxzb2RpcG9kaTpuYW1lZHZpZXcKICAgICBpZD0ibmFtZWR2aWV3NiIKICAgICBwYWdlY29sb3I9IiNmZmZmZmYiCiAgICAgYm9yZGVyY29sb3I9IiM2NjY2NjYiCiAgICAgYm9yZGVyb3BhY2l0eT0iMS4wIgogICAgIGlua3NjYXBlOnBhZ2VzaGFkb3c9IjIiCiAgICAgaW5rc2NhcGU6cGFnZW9wYWNpdHk9IjAuMCIKICAgICBpbmtzY2FwZTpwYWdlY2hlY2tlcmJvYXJkPSIwIgogICAgIHNob3dncmlkPSJmYWxzZSIKICAgICBpbmtzY2FwZTp6b29tPSI4LjE3MDQ1NDUiCiAgICAgaW5rc2NhcGU6Y3g9IjQ0IgogICAgIGlua3NjYXBlOmN5PSI0NC4wNjExOTYiCiAgICAgaW5rc2NhcGU6d2luZG93LXdpZHRoPSIxOTIwIgogICAgIGlua3NjYXBlOndpbmRvdy1oZWlnaHQ9IjEwNDMiCiAgICAgaW5rc2NhcGU6d2luZG93LXg9IjQ0ODAiCiAgICAgaW5rc2NhcGU6d2luZG93LXk9IjAiCiAgICAgaW5rc2NhcGU6d2luZG93LW1heGltaXplZD0iMSIKICAgICBpbmtzY2FwZTpjdXJyZW50LWxheWVyPSJzdmc0IiAvPgogIDxwYXRoCiAgICAgZD0iTTAgMTIuNDAybDM1LjY4Ny00Ljg2LjAxNiAzNC40MjMtMzUuNjcuMjAzem0zNS42NyAzMy41MjlsLjAyOCAzNC40NTNMLjAyOCA3NS40OC4wMjYgNDUuN3ptNC4zMjYtMzkuMDI1TDg3LjMxNCAwdjQxLjUyN2wtNDcuMzE4LjM3NnptNDcuMzI5IDM5LjM0OWwtLjAxMSA0MS4zNC00Ny4zMTgtNi42NzgtLjA2Ni0zNC43Mzl6IgogICAgIGZpbGw9IiMwMGFkZWYiCiAgICAgaWQ9InBhdGgyIgogICAgIHN0eWxlPSJmaWxsOiNmZmZmZmY7ZmlsbC1vcGFjaXR5OjEiIC8%2BCjwvc3ZnPgo%3D&logoColor=white&logoSize=auto">
+          <img src="https://img.shields.io/badge/android-34A853?style=for-the-badge&logo=android&logoColor=white">
+        </td>
+        <td align="center" style="border: none;">
+          <img src="https://img.shields.io/badge/bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white">
+          <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">
+          <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
+          <br>
+          <img src="https://img.shields.io/badge/java-F7F7F7?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI2NCIgaGVpZ2h0PSI2NCIgdmlld0JveD0iMCAwIDMyIDMyIj48cGF0aCBkPSJNMTEuNjIyIDI0Ljc0cy0xLjIzLjc0OC44NTUuOTYyYzIuNTEuMzIgMy44NDcuMjY3IDYuNjI1LS4yNjdhMTAuMDIgMTAuMDIgMCAwIDAgMS43NjMuODU1Yy02LjI1IDIuNjcyLTE0LjE2LS4xNi05LjI0NC0xLjU1em0tLjgtMy40NzNzLTEuMzM2IDEuMDE1Ljc0OCAxLjIzYzIuNzI1LjI2NyA0Ljg2Mi4zMiA4LjU1LS40MjdhMy4yNiAzLjI2IDAgMCAwIDEuMjgyLjgwMWMtNy41MzQgMi4yNDQtMTUuOTc2LjIxNC0xMC41OC0xLjYwM3ptMTQuNzQ3IDYuMDlzLjkwOC43NDgtMS4wMTUgMS4zMzZjLTMuNTggMS4wNy0xNS4wMTQgMS4zOS0xOC4yMiAwLTEuMTIyLS40OCAxLjAxNS0xLjE3NSAxLjctMS4yODIuNjk1LS4xNiAxLjA3LS4xNiAxLjA3LS4xNi0xLjIzLS44NTUtOC4xNzUgMS43NjMtMy41MjYgMi41MSAxMi43NyAyLjA4NCAyMy4yOTYtLjkwOCAxOS45ODMtMi40MDR6TTEyLjIgMTcuNjMzcy01LjgyNCAxLjM5LTIuMDg0IDEuODdjMS42MDMuMjE0IDQuNzU1LjE2IDcuNjk0LS4wNTMgMi40MDQtLjIxNCA0LjgxLS42NCA0LjgxLS42NHMtLjg1NS4zNzQtMS40NDMuNzQ4Yy01LjkzIDEuNTUtMTcuMzEyLjg1NS0xNC4wNTItLjc0OCAyLjc3OC0xLjMzNiA1LjA3Ni0xLjE3NSA1LjA3Ni0xLjE3NXptMTAuNDIgNS44MjRjNS45ODQtMy4xIDMuMjA2LTYuMDkgMS4yODItNS43MTctLjQ4LjEwNy0uNjk1LjIxNC0uNjk1LjIxNHMuMTYtLjMyLjUzNC0uNDI3YzMuNzk0LTEuMzM2IDYuNzg2IDQuMDA3LTEuMjMgNi4wOSAwIDAgLjA1My0uMDUzLjEwNy0uMTZ6bS05LjgzIDguNDQyYzUuNzcuMzc0IDE0LjU4Ny0uMjE0IDE0LjgtMi45NCAwIDAtLjQyNyAxLjA3LTQuNzU1IDEuODctNC45MTYuOTA4LTExLjAwNy44LTE0LjU4Ny4yMTQgMCAwIC43NDguNjQgNC41NDIuODU1eiIgZmlsbD0iIzRlNzg5NiIvPjxwYXRoIGQ9Ik0xOC45OTYuMDAxczMuMzEzIDMuMzY2LTMuMTUyIDguNDQyYy01LjE4MyA0LjExNC0xLjE3NSA2LjQ2NSAwIDkuMTM3LTMuMDQ2LTIuNzI1LTUuMjM2LTUuMTMtMy43NC03LjM3M0MxNC4yOTQgNi44OTMgMjAuMzMyIDUuMyAxOC45OTYuMDAxem0tMS43IDE1LjMzNWMxLjU1IDEuNzYzLS40MjcgMy4zNjYtLjQyNyAzLjM2NnMzLjk1NC0yLjAzIDIuMTM3LTQuNTQyYy0xLjY1Ni0yLjQwNC0yLjk0LTMuNTggNC4wMDctNy41ODcgMCAwLTEwLjk1MyAyLjcyNS01LjcxNyA4Ljc2M3oiIGZpbGw9IiNmNTgyMTkiLz48L3N2Zz4%3D&logoSize=auto">
+          <img src="https://img.shields.io/badge/lilypond-A3DE92?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiIHN0YW5kYWxvbmU9Im5vIj8%2BCjxzdmcKICAgdmVyc2lvbj0iMS4yIgogICB3aWR0aD0iODAuODc3NTYzbW0iCiAgIGhlaWdodD0iMjMwLjY0NjE1bW0iCiAgIHZpZXdCb3g9IjAgMCA0Ni4wMjM4MDEgMTMxLjI1MDM5IgogICBpZD0ic3ZnOCIKICAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogICB4bWxuczpzdmc9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KICA8ZGVmcwogICAgIGlkPSJkZWZzMTIiIC8%2BCiAgPCEtLSBQYWdlOiAxLzEgLS0%2BCiAgPHRleHQKICAgICBmb250LWZhbWlseT0ic2VyaWYiCiAgICAgZm9udC1zaXplPSIyLjIwMDFweCIKICAgICB0ZXh0LWFuY2hvcj0ic3RhcnQiCiAgICAgZmlsbD0iY3VycmVudENvbG9yIgogICAgIGlkPSJ0ZXh0NCIKICAgICB4PSItMzEuMTcwNyIKICAgICB5PSItMS40MDQyIj48dHNwYW4KICAgICAgIGlkPSJ0c3BhbjIiIC8%2BPC90ZXh0PgogIDxwYXRoCiAgICAgZD0ibSAyNi43MDk2LDY3LjEzMyBjIDAuMzU5LDAgMC43MTgsLTAuMDcxOCAxLjA3NywtMC4wNzE4IDExLjA1NzIsMCAxOC4yMzcyLDkuMTE4NiAxOC4yMzcyLDE4LjU5NjIgMCw1LjQ1NjggLTIuMzY5NCwxMC45ODU0IC03LjY4MjYsMTQuOTM0NCAtMS41Nzk2LDEuMjIwNiAtMy4zNzQ2LDIuMDgyMiAtNS4yNDE0LDIuNjU2NiAwLjIxNTQsMi41ODQ4IDAuMzU5LDUuMTY5NiAwLjM1OSw3Ljc1NDQgMCwxLjM2NDIgMCwyLjY1NjYgLTAuMDcxOCw0LjAyMDggLTAuNTAyNiw4LjYxNiAtNi4zMTg0LDE2LjIyNjggLTE0Ljc5MDgsMTYuMjI2OCAtNy43NTQ0LDAgLTE0LjAwMSwtNi4yNDY2IC0xNC4wMDEsLTE0LjAwMSAwLC00LjE2NDQgMy44MDU0LC03LjQ2NzIgOC4wNDE2LC03LjQ2NzIgMy44NzcyLDAgNi44MjEsMy40NDY0IDYuODIxLDcuNDY3MiAwLDMuNzMzNiAtMy4wODc0LDYuODIxIC02LjgyMSw2LjgyMSAtMC44NjE2LDAgLTEuNzIzMiwtMC4yODcyIC0yLjUxMywtMC42NDYyIDEuODY2OCwyLjk0MzggNS4wMjYsNS4wMjYgOC42ODc4LDUuMDI2IDYuODkyOCwwIDExLjI3MjYsLTYuNjc3NCAxMS43MDM0LC0xMy44NTc0IDAuMDcxOCwtMS4yOTI0IDAuMTQzNiwtMi41MTMgMC4xNDM2LC0zLjgwNTQgMCwtMi4yOTc2IC0wLjE0MzYsLTQuNTk1MiAtMC4zNTksLTYuODkyOCAtMi4wODIyLDAuMzU5IC00LjE2NDQsMC41NzQ0IC02LjM5MDIsMC41NzQ0IEMgMTAuNDExLDEwNC40NjkgMCw5Mi4xOTEyIDAsNzcuNzU5NCAwLDY0Ljk3OSA5LjU0OTQsNTUuNzg4NiAxOC4wMjE4LDQ2LjE2NzQgMTYuNzI5NCw0MS42NDQgMTUuNTA4OCwzNy4xMjA2IDE1LjAwNjIsMzIuNDUzNiAxNC41NzU0LDI4Ljc5MTggMTQuNTAzNiwyNS4xMyAxNC41MDM2LDIxLjM5NjQgYyAwLC04LjMyODggMy45NDksLTE2LjIyNjggMTAuNzcsLTIxLjE4MSBDIDI1LjQxNzIsMC4wNzE4IDI1LjYzMjYsMCAyNS44NDgsMCBjIDAuMjE1NCwwIDAuNDMwOCwwLjA3MTggMC41NzQ0LDAuMjE1NCA1LjAyNiw2LjAzMTIgOS40Nzc2LDE3LjY2MjggOS40Nzc2LDI1Ljc3NjIgMCwxMC4zMzkyIC02LjI0NjYsMTguMzgwOCAtMTMuMTM5NCwyNi4yMDcgMS40MzYsNC45NTQyIDIuODAwMiw5LjkwODQgMy45NDksMTQuOTM0NCB6IG0gNi4xMDMsMzMuMzg3IGMgNC45NTQyLC0xLjcyMzIgOC40MDA2LC02Ljg5MjggOC40MDA2LC0xMS45MTg4IDAsLTYuNjA1NiAtNC45NTQyLC0xMy4yMTEyIC0xMi44NTIyLC0xMy44NTc0IDEuNzk1LDguNDAwNiAzLjQ0NjQsMTYuODczIDQuNDUxNiwyNS43NzYyIHogTSA0Ljk1NDIsODMuNTc1MiBjIDAsOS43NjQ4IDkuNDA1OCwxOC4wMjE4IDE5LjE3MDYsMTguMDIxOCAyLjAxMDQsMCAzLjk0OSwtMC4xNDM2IDUuODg3NiwtMC40MzA4IC0xLjA3NywtOS4xOTA0IC0yLjcyODQsLTE3LjczNDYgLTQuNTk1MiwtMjYuMzUwNiAtNS42NzIyLDAuNjQ2MiAtOC45NzUsNC40NTE2IC04Ljk3NSw4LjY4NzggMCwzLjE1OTIgMS44NjY4LDYuNjA1NiA1Ljg4NzYsOC45MDMyIDAuMjg3MiwwLjI4NzIgMC41MDI2LDAuNjQ2MiAwLjUwMjYsMS4wMDUyIDAsMC43ODk4IC0wLjY0NjIsMS41MDc4IC0xLjQzNiwxLjUwNzggLTAuMjE1NCwwIC0wLjQzMDgsLTAuMDcxOCAtMC42NDYyLC0wLjE0MzYgLTUuNzQ0LC0zLjA4NzQgLTguMzI4OCwtOC4xODUyIC04LjMyODgsLTEzLjIxMTIgMCwtNi4zMTg0IDQuMDkyNiwtMTIuNDIxNCAxMS4zNDQ0LC0xNC4wNzI4IEMgMjIuNzYwNiw2My4xODQgMjEuNjExOCw1OC45NDc4IDIwLjQ2Myw1NC43MTE2IDEyLjcwODYsNjMuMzk5NCA0Ljk1NDIsNzIuMDg3MiA0Ljk1NDIsODMuNTc1MiBaIE0gMjkuMzY2MiwxMC40MTEgYyAtNy4xMDgyLDMuNTkgLTExLjU1OTgsMTAuODQxOCAtMTEuNTU5OCwxOC44MTE2IDAsNS40NTY4IDEuMDc3LDkuODM2NiAyLjM2OTQsMTQuMzYgNS44ODc2LC02Ljk2NDYgMTAuNjk4MiwtMTQuMjE2NCAxMC42OTgyLC0yMy4zMzUgMCwtNC4xNjQ0IC0wLjI4NzIsLTYuMDMxMiAtMS41MDc4LC05LjgzNjYgeiIKICAgICBmaWxsPSJjdXJyZW50Q29sb3IiCiAgICAgaWQ9InBhdGg2IgogICAgIHN0eWxlPSJzdHJva2Utd2lkdGg6MC4wNzE4IiAvPgo8L3N2Zz4K&logoColor=white&logoSize=auto">
+        </td>
+        <td align="center" style="border: none;">
+          <img src="https://img.shields.io/badge/ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white">
+          <img src="https://img.shields.io/badge/tmux-1BB91F?style=for-the-badge&logo=tmux&logoColor=white&logoSize=auto">
+          <img src="https://img.shields.io/badge/vim-019733?style=for-the-badge&logo=vim&logoColor=white&logoSize=auto">
+          <br>
+          <img src="https://img.shields.io/badge/zsh-F15A24?style=for-the-badge&logo=zsh&logoColor=white&logoSize=auto">
+          <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white&logoSize=auto">
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</div>
 
 <br>
 
@@ -127,8 +141,8 @@ currently working through a variety of
           <img src="https://img.shields.io/badge/django-092E20?style=for-the-badge&logo=django&logoColor=white">
           <img src="https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white">
           <img src="https://img.shields.io/badge/hugo-FF4088?style=for-the-badge&logo=hugo&logoColor=white&logoSize=auto">
-          <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white">
           <br>
+          <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white">
           <img src="https://img.shields.io/badge/nginx-199F4B?style=for-the-badge&logo=nginx&logoColor=white">
         </td>
         <td align="center" style="border: none;">
@@ -320,6 +334,7 @@ currently working through a variety of
         <td align="center" style="border: none;">
           <img src="https://img.shields.io/badge/gimp-5C5543?style=for-the-badge&logo=gimp&logoColor=white&logoSize=auto">
           <img src="https://img.shields.io/badge/inkscape-000000?style=for-the-badge&logo=inkscape&logoColor=white&logoSize=auto">
+          <br>
           <img src="https://img.shields.io/badge/libreoffice-18A303?style=for-the-badge&logo=libreoffice&logoColor=white&logoSize=auto">
           <img src="https://img.shields.io/badge/google_sheets-34A853?style=for-the-badge&logo=googlesheets&logoColor=white&logoSize=auto">
         </td>
