@@ -15,6 +15,9 @@ currently working through a variety of
 **Front-end**, **Back-end**, and **Full-stack** development with an interest in
 expanding to data science and AI.
 
+My most recent portfolio project can be found here: [Little Lemon Restaurant Booking Website](https://github.com/brianclements/front-end-capstone)
+What I'm currently working on: [A Workflowy to LogSeq Converter in Node](https://github.com/brianclements/wf2ls)
+
 <table>
   <thead>
     <tr>
