@@ -288,6 +288,17 @@ What I'm currently working on: [A Workflowy to LogSeq Converter in Node](https:/
           <img src="https://img.shields.io/badge/ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white">
         </td>
       </tr>
+      <tr>
+        <td>
+          <details>
+            <summary><strong>Projects</strong> (click to expand)</summary>
+            <br>
+            <p align="center">
+              <p><a href="https://github.com/radial">Radial</p>
+            </p>
+            <br>
+          </details>
+        </td>
       </tr>
     </tbody>
   </table>
