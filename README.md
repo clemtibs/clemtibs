@@ -1,3 +1,4 @@
+
 <!--
   Custom SVG logos courtesy of:
   https://base64.guru/converter/encode/image/svg
@@ -15,9 +16,9 @@ currently working through a variety of
 **Front-end**, **Back-end**, and **Full-stack** development with an interest in
 expanding to data science and AI.
 
-My most recent portfolio project can be found here: [Little Lemon Restaurant Booking Website](https://github.com/brianclements/front-end-capstone)
+My most recent portfolio project can be found here: [Little Lemon Restaurant Booking Website](https://github.com/clemtibs/front-end-capstone)
 
-What I'm currently working on: [A Workflowy to LogSeq Converter in Node](https://github.com/brianclements/wf2ls)
+What I'm currently working on: [A Workflowy to LogSeq Converter in Node](https://github.com/clemtibs/wf2ls)
 
 <table>
   <thead>
@@ -29,8 +30,8 @@ What I'm currently working on: [A Workflowy to LogSeq Converter in Node](https:/
     <tr>
       <td>
         <p align="center">
-          <img src="https://github-readme-stats.vercel.app/api?username=brianclements&hide_border=true">
-          <img src="https://github-readme-streak-stats.herokuapp.com/?user=brianclements&hide_border=true" alt="Brian's Streak" height="165">
+          <img src="https://github-readme-stats.vercel.app/api?username=clemtibs&hide_border=true">
+          <img src="https://github-readme-streak-stats.herokuapp.com/?user=clemtibs&hide_border=true" alt="Brian's Streak" height="165">
         </p>
       </td>
     </tr>
@@ -38,7 +39,7 @@ What I'm currently working on: [A Workflowy to LogSeq Converter in Node](https:/
       <td>
         <p align="center">
           <a href="https://github.com/ryo-ma/github-profile-trophy">
-            <img src="https://github-profile-trophy.vercel.app/?username=brianclements&title=-Reviews&margin-w=15&margin-h=15" alt="Brian Clements-Tiberio Github Trophies"/>
+            <img src="https://github-profile-trophy.vercel.app/?username=clemtibs&title=-Reviews&margin-w=15&margin-h=15" alt="Brian Clements-Tiberio Github Trophies"/>
           </a>
         </p>
       </td>
@@ -46,8 +47,8 @@ What I'm currently working on: [A Workflowy to LogSeq Converter in Node](https:/
     <tr>
       <td>
         <p align="center">
-          <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=brianclements" alt="Repos Per Language">
-          <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=brianclements" alt="Most Commit Language">
+          <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=clemtibs" alt="Repos Per Language">
+          <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=clemtibs" alt="Most Commit Language">
         </p>
       </td>
     </tr>
@@ -63,7 +64,7 @@ What I'm currently working on: [A Workflowy to LogSeq Converter in Node](https:/
   <tbody>
     <tr>
       <td>
-        <a href="https://stackoverflow.com/users/2607578/brianclements">
+        <a href="https://stackoverflow.com/users/2607578/clemtibs">
           <img src="https://readme-components.vercel.app/api?component=stackoverflow&stackoverflowid=2607578" alt="Stack Overflow Card for Brian Clements-Tiberio">
         </a>
       </td>
@@ -178,9 +179,9 @@ What I'm currently working on: [A Workflowy to LogSeq Converter in Node](https:/
             <summary><strong>Projects</strong> (click to expand)</summary>
             <br>
             <p align="center">
-              <p><a href="https://github.com/brianclements/front-end-capstone">React Capstone Project</a></p>
+              <p><a href="https://github.com/clemtibs/front-end-capstone">React Capstone Project</a></p>
               <p><a href="https://oaksmusic.studio">Music Studio Homepage (Hugo)</a></p>
-              <p><a href="https://github.com/brianclements/brianclements.github.io/tree/src">Personal Homepage</a></p>
+              <p><a href="https://github.com/clemtibs/clemtibs.github.io/tree/src">Personal Homepage</a></p>
             </p>
             <br>
           </details>
@@ -226,8 +227,8 @@ What I'm currently working on: [A Workflowy to LogSeq Converter in Node](https:/
             <summary><strong>Projects</strong> (click to expand)</summary>
             <br>
             <p align="center">
-              <p><a href="https://github.com/brianclements/iserb">Interval and Snapshot Enabled Rsync Backup (IserB)</a></p>
-              <p><a href="https://github.com/brianclements/pkictl">Pkictl</a></p>
+              <p><a href="https://github.com/clemtibs/iserb">Interval and Snapshot Enabled Rsync Backup (IserB)</a></p>
+              <p><a href="https://github.com/clemtibs/pkictl">Pkictl</a></p>
             </p>
             <br>
           </details>
@@ -364,4 +365,4 @@ What I'm currently working on: [A Workflowy to LogSeq Converter in Node](https:/
   </table>
 </div>
 
-![Profile views](https://komarev.com/ghpvc/?username=brianclements&label=Profile%20views&color=blue&style=flat)
+![Profile views](https://komarev.com/ghpvc/?username=clemtibs&label=Profile%20views&color=blue&style=flat)
